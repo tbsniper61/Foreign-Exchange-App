@@ -12,7 +12,7 @@ First thing you need to do is installing composer on to your system. You can get
 
 # Step 2: clone the repository
 ```
-git clone git@github.com:stevepop/myfxapp.git
+git clone git@github.com:tbsniper61/myfxapp.git
 ```
 # Step 3: clone the repository
 From the command line, copy the .env .example to .env
